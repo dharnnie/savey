@@ -1,0 +1,19 @@
+.body{
+	-fx-background-color: rgb(192,192,192);
+}
+.button{
+
+
+}
+#top{
+	-fx-padding:20px;
+	-fx-background-color:rgb(192,192,192);
+	-fx-border-color: #000000;
+	-fx-border-width: 25px;
+}
+#menu{
+	-fx-padding:5px;
+	-fx-background-color:#000000;
+	-fx-border-color: rgb(192,192,192);
+	-fx-border-width: 10px;
+}
